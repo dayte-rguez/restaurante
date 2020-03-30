@@ -17,8 +17,8 @@ namespace Fase1
             var b200   = 0;
             var b500   = 0;
             var change = 0.0;
-            var menu   = new string[5];
-            var price  = new double[5];
+            var menu   = new string[4];
+            var price  = new double[4];
         }
     }
 }
