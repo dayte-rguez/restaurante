@@ -1,0 +1,13 @@
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.exe
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.deps.json
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.runtimeconfig.json
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.runtimeconfig.dev.json
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.dll
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\bin\Debug\netcoreapp3.1\Fase4.pdb
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.csprojAssemblyReference.cache
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.csproj.CoreCompileInputs.cache
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.AssemblyInfoInputs.cache
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.AssemblyInfo.cs
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.dll
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.pdb
+D:\Projects\IT Academy\Visual Studio\Restaurante\Fase4\obj\Debug\netcoreapp3.1\Fase4.genruntimeconfig.cache
